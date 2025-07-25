@@ -14,6 +14,7 @@ Before running the code, ensure the following Python libraries are installed to 
 * `colorsys`: For handling color conversions in visualizations.
 * `scikit-fuzzy`: For implementing the Fuzzy C-Means algorithm.
 * `sklearn`: Used scikit-learn to apply built-in K-Means.
+
 You can install these dependencies using pip:
 
 ```bash

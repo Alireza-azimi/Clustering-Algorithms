@@ -1,6 +1,6 @@
 # Clustering Algorithms: Fuzzy C-Means and K-Means
 
-This repository contains implementations of two popular clustering algorithms: **Fuzzy C-Means (FCM)** and **K-Means**. The code is written in Python and includes test cases to demonstrate the functionality of both algorithms. Users can customize parameters such as the number of clusters, colors, and more within the source code to experiment with different clustering scenarios.
+This repository contains implementations of two popular clustering algorithms: **Fuzzy C-Means (FCM)** and **K-Means**. The code is written in Python and includes test pictures to demonstrate the functionality of both algorithms. Users can customize parameters such as the number of clusters, colors, and more within the source code to experiment with different clustering scenarios.
 
 ---
 

@@ -3,3 +3,4 @@ Pillow
 matplotlib
 colorsys
 scikit-fuzzy
+scikit-learn
